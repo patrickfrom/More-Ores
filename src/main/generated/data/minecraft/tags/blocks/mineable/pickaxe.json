@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "moreores:dirt_ore",
+    "moreores:axolotl_ore",
+    "moreores:apple_block",
+    "moreores:golden_apple_block"
+  ]
+}

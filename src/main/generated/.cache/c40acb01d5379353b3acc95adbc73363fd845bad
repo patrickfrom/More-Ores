@@ -1,0 +1,5 @@
+// 1.19.4	2023-04-25T17:08:12.2227641	More Ores/Block Loot Tables
+7c28a96a8a2f2cda6a9998324ffb7d5fe2bd6773 data\moreores\loot_tables\blocks\dirt_ore.json
+6c2bab99b5efcc0a5ef23e40756849f9818ad314 data\moreores\loot_tables\blocks\apple_block.json
+e54eab7c423fef74f692fe55bafa7d6751ee8ad0 data\moreores\loot_tables\blocks\golden_apple_block.json
+745fabcf2d4415a2b935009a67ea32e23f09f9f4 data\moreores\loot_tables\blocks\axolotl_ore.json
