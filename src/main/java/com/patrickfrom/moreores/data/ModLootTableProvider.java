@@ -16,7 +16,12 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.DEEPSLATE_AXOLOTL_ORE, oreDrops(ModBlocks.DEEPSLATE_AXOLOTL_ORE, Items.AXOLOTL_BUCKET));
 
         addDrop(ModBlocks.DIRT_ORE, oreDrops(ModBlocks.DIRT_ORE, Items.DIRT));
+        addDrop(ModBlocks.DEEPSLATE_DIRT_ORE, oreDrops(ModBlocks.DEEPSLATE_DIRT_ORE, Items.DIRT));
+
         addDrop(ModBlocks.APPLE_ORE, oreDrops(ModBlocks.APPLE_ORE, Items.APPLE));
+        addDrop(ModBlocks.DEEPSLATE_APPLE_ORE, oreDrops(ModBlocks.DEEPSLATE_APPLE_ORE, Items.APPLE));
+
         addDrop(ModBlocks.GOLDEN_APPLE_ORE, oreDrops(ModBlocks.GOLDEN_APPLE_ORE, Items.GOLDEN_APPLE));
+        addDrop(ModBlocks.DEEPSLATE_GOLDEN_APPLE_ORE, oreDrops(ModBlocks.DEEPSLATE_GOLDEN_APPLE_ORE, Items.GOLDEN_APPLE));
     }
 }

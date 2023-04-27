@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "moreores:golden_apple_ore"
+    "moreores:golden_apple_ore",
+    "moreores:deepslate_golden_apple_ore"
   ]
 }

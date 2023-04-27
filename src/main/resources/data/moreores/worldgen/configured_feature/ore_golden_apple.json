@@ -1,7 +1,7 @@
 {
   "type": "minecraft:ore",
   "config": {
-    "size": 2,
+    "size": 4,
     "discard_chance_on_air_exposure": 0,
     "targets": [
       {
@@ -19,7 +19,7 @@
           "tag": "minecraft:deepslate_ore_replaceables"
         },
         "state": {
-          "Name": "moreores:golden_apple_ore"
+          "Name": "moreores:deepslate_golden_apple_ore"
         }
       }
     ]

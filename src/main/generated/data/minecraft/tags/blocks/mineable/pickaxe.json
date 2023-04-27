@@ -2,9 +2,12 @@
   "replace": false,
   "values": [
     "moreores:dirt_ore",
+    "moreores:deepslate_dirt_ore",
     "moreores:axolotl_ore",
     "moreores:deepslate_axolotl_ore",
     "moreores:apple_ore",
-    "moreores:golden_apple_ore"
+    "moreores:deepslate_apple_ore",
+    "moreores:golden_apple_ore",
+    "moreores:deepslate_golden_apple_ore"
   ]
 }
