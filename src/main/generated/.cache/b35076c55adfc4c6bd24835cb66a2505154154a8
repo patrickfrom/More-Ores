@@ -1,8 +1,8 @@
-// 1.19.4	2023-04-27T11:37:37.8869674	More Ores/Model Definitions
+// 1.19.4	2023-04-27T13:06:32.6563359	More Ores/Model Definitions
 d81b898e7cff84a1ce0fe24bd16f30334d5f6363 assets\moreores\blockstates\apple_ore.json
 337dbcc7738dce50796029f875d558688deef8a6 assets\moreores\models\block\deepslate_axolotl_ore.json
-a3c3e22f0262bc629959cb48e7035262edd858c9 assets\moreores\blockstates\deepslate_axolotl_ore.json
 c09bf21dc3266b16cc814637fad3490546aff840 assets\moreores\models\block\golden_apple_ore.json
+a3c3e22f0262bc629959cb48e7035262edd858c9 assets\moreores\blockstates\deepslate_axolotl_ore.json
 c4faaed1f411c7f2b6ac495cd32031f8383d17b9 assets\moreores\blockstates\axolotl_ore.json
 1b8bf6497ecf19211cade409a75abedb6fd9ec0d assets\moreores\models\item\golden_apple_ore.json
 a8a60c1b89f0057afe9a99e231afc6765e014516 assets\moreores\models\item\dirt_ore.json
