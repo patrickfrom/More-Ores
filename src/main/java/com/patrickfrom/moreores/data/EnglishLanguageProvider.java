@@ -12,6 +12,7 @@ public class EnglishLanguageProvider extends FabricLanguageProvider {
     @Override
     public void generateTranslations(TranslationBuilder translationBuilder) {
         translationBuilder.add(ModItems.AXOLOTL_ORE, "Axolotl Ore");
+        translationBuilder.add(ModItems.DEEPSLATE_AXOLOTL_ORE, "Deepslate Axolotl Ore");
         translationBuilder.add(ModItems.DIRT_ORE, "Dirt Ore");
         translationBuilder.add(ModItems.APPLE_ORE, "Apple Ore");
         translationBuilder.add(ModItems.GOLDEN_APPLE_ORE, "Golden Apple Ore");
