@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "moreores:axolotl_ore"
+    "moreores:axolotl_ore",
+    "moreores:deepslate_axolotl_ore"
   ]
 }

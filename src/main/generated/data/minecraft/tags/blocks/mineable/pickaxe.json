@@ -3,7 +3,8 @@
   "values": [
     "moreores:dirt_ore",
     "moreores:axolotl_ore",
-    "moreores:apple_block",
-    "moreores:golden_apple_block"
+    "moreores:deepslate_axolotl_ore",
+    "moreores:apple_ore",
+    "moreores:golden_apple_ore"
   ]
 }

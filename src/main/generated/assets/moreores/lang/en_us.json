@@ -1,6 +1,7 @@
 {
-  "block.moreores.apple_block": "Apple Ore",
+  "block.moreores.apple_ore": "Apple Ore",
   "block.moreores.axolotl_ore": "Axolotl Ore",
+  "block.moreores.deepslate_axolotl_ore": "Deepslate Axolotl Ore",
   "block.moreores.dirt_ore": "Dirt Ore",
-  "block.moreores.golden_apple_block": "Golden Apple Ore"
+  "block.moreores.golden_apple_ore": "Golden Apple Ore"
 }

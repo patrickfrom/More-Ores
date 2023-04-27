@@ -18,11 +18,13 @@ public class ModTagProvider extends FabricTagProvider.BlockTagProvider {
         getOrCreateTagBuilder(BlockTags.PICKAXE_MINEABLE)
                 .add(ModBlocks.DIRT_ORE)
                 .add(ModBlocks.AXOLOTL_ORE)
+                .add(ModBlocks.DEEPSLATE_AXOLOTL_ORE)
                 .add(ModBlocks.APPLE_ORE)
                 .add(ModBlocks.GOLDEN_APPLE_ORE);
 
         getOrCreateTagBuilder(BlockTags.NEEDS_STONE_TOOL)
-                .add(ModBlocks.AXOLOTL_ORE);
+                .add(ModBlocks.AXOLOTL_ORE)
+                .add(ModBlocks.DEEPSLATE_AXOLOTL_ORE);
 
         getOrCreateTagBuilder(BlockTags.NEEDS_DIAMOND_TOOL)
                 .add(ModBlocks.GOLDEN_APPLE_ORE);
