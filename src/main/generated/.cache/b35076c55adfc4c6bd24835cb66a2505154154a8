@@ -1,5 +1,6 @@
-// 1.19.4	2023-04-28T10:01:15.217232	More Ores/Model Definitions
+// 1.19.4	2023-04-28T10:58:22.7588073	More Ores/Model Definitions
 ec42ea8b69d26c30be90d8c5e2fd45f10348ff6f assets\moreores\models\block\deepslate_torch_ore.json
+f2f4dc12577c593f36ab4aa8be3799169def6276 assets\moreores\models\block\deepslate_cake_ore.json
 a3c3e22f0262bc629959cb48e7035262edd858c9 assets\moreores\blockstates\deepslate_axolotl_ore.json
 29e5464a0184e8e4e155323f6761a09c298dce6b assets\moreores\models\block\deepslate_golden_apple_ore.json
 a8a60c1b89f0057afe9a99e231afc6765e014516 assets\moreores\models\item\dirt_ore.json
@@ -11,9 +12,11 @@ bd0cb5485d2c64384eac194e892915c683fcab5a assets\moreores\models\item\deepslate_g
 975e42593a16286deba724c438b3651b6cf69fa1 assets\moreores\blockstates\torch_ore.json
 a0d320fb9b829ad4b2f4e05e64a66867e56f8f54 assets\moreores\models\item\deepslate_axolotl_ore.json
 0f5497811d7c7a7ae05a4a3396bd7fdedc5090ad assets\moreores\blockstates\golden_apple_ore.json
+9a6c106184c77e764f7ad6af5c0239ed478348d3 assets\moreores\blockstates\cake_ore.json
 9da969d7b1066b3f03b23876ca8e4cbfefb645fe assets\moreores\blockstates\deepslate_torch_ore.json
 af61addf7ec078b905fcefc299432dd5fdb5a20b assets\moreores\models\item\deepslate_apple_ore.json
 ed55b5f152dc4fcd1c5c67cdbd640926ca76327d assets\moreores\models\block\deepslate_apple_ore.json
+04136a4db46d7ed700bae3373e5f1c10db2d18cf assets\moreores\blockstates\deepslate_cake_ore.json
 8b40d1b3f62ca42b845c45726ddfef3bdd914f02 assets\moreores\models\item\deepslate_torch_ore.json
 9562dec65125974ebbdd62d35d714ad881e00584 assets\moreores\models\block\apple_ore.json
 6f4da67066266348061fe63cde860793a95019c0 assets\moreores\blockstates\deepslate_apple_ore.json
@@ -26,6 +29,9 @@ c4faaed1f411c7f2b6ac495cd32031f8383d17b9 assets\moreores\blockstates\axolotl_ore
 5ecdc6184e5d101b1c2bed6817f6ec0effea8dcf assets\moreores\models\block\torch_ore.json
 1b8bf6497ecf19211cade409a75abedb6fd9ec0d assets\moreores\models\item\golden_apple_ore.json
 e843ecebacf3021fc9e6d03fe58e600e0722fb65 assets\moreores\models\block\dirt_ore.json
+97748f3013ae2e710c8762daebf4fae8c1b1e34b assets\moreores\models\item\deepslate_cake_ore.json
 e1419fe13beff33f8deb12b5aa9a4ba9b6cce962 assets\moreores\models\item\apple_ore.json
+2b267073057a9cf3824fed36da93d428bf54f5d7 assets\moreores\models\item\cake_ore.json
 25bb9dda70c527ca392a4e6d00ea91184a14245b assets\moreores\models\item\torch_ore.json
+b74f98afbadca93e4252a2a3cd2dad809c67193c assets\moreores\models\block\cake_ore.json
 e547617e9c122219e03755f84e48cfbf99769084 assets\moreores\models\item\deepslate_dirt_ore.json

@@ -25,5 +25,8 @@ public class EnglishLanguageProvider extends FabricLanguageProvider {
 
         translationBuilder.add(ModItems.TORCH_ORE, "Torch Ore");
         translationBuilder.add(ModItems.DEEPSLATE_TORCH_ORE, "Deepslate Torch Ore");
+
+        translationBuilder.add(ModItems.CAKE_ORE, "Cake Ore");
+        translationBuilder.add(ModItems.DEEPSLATE_CAKE_ORE, "Deepslate Cake Ore");
     }
 }

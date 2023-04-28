@@ -27,6 +27,9 @@ public class ModModelProvider extends FabricModelProvider {
 
         blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.TORCH_ORE);
         blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.DEEPSLATE_TORCH_ORE);
+
+        blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.CAKE_ORE);
+        blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.DEEPSLATE_CAKE_ORE);
     }
 
     @Override

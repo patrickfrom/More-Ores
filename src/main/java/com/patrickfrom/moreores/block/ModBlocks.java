@@ -39,6 +39,13 @@ public class ModBlocks {
     public static final Block DEEPSLATE_GOLDEN_APPLE_ORE = registerBlock("deepslate_golden_apple_ore",
             FabricBlockSettings.of(Material.METAL).hardness(6.0f));
 
+    public static final Block CAKE_ORE = registerBlock("cake_ore",
+            FabricBlockSettings.of(Material.METAL).hardness(1.5f));
+
+    public static final Block DEEPSLATE_CAKE_ORE = registerBlock("deepslate_cake_ore",
+            FabricBlockSettings.of(Material.METAL).hardness(2.5f));
+
+
     private static Block registerBlock(String name, FabricBlockSettings settings) {
         return Registry.register(Registries.BLOCK, new Identifier(MoreOres.MOD_ID, name), new Block(settings.requiresTool()));
     }

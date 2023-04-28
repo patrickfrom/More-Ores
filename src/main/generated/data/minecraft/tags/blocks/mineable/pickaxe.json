@@ -10,6 +10,8 @@
     "moreores:golden_apple_ore",
     "moreores:deepslate_golden_apple_ore",
     "moreores:torch_ore",
-    "moreores:deepslate_torch_ore"
+    "moreores:deepslate_torch_ore",
+    "moreores:cake_ore",
+    "moreores:deepslate_cake_ore"
   ]
 }

@@ -3,13 +3,12 @@
   "id": "moreores",
   "version": "${version}",
   "name": "More Ores",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "This adds more ores to Minecraft with Vanilla Items",
   "authors": [
-    "Me!"
+    "Programmer: BAUHAUS",
+    "Artist: Camcham"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
   "license": "CC0-1.0",
   "icon": "assets/moreores/icon.png",
@@ -29,6 +28,5 @@
     "fabric-api": "*"
   },
   "suggests": {
-    "another-mod": "*"
   }
 }

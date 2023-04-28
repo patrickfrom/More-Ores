@@ -43,6 +43,12 @@ public class ModItems {
     public static final Item DEEPSLATE_TORCH_ORE = registerItem("deepslate_torch_ore",
             ModBlocks.DEEPSLATE_TORCH_ORE);
 
+    public static final Item CAKE_ORE = registerItem("cake_ore",
+            ModBlocks.CAKE_ORE);
+
+    public static final Item DEEPSLATE_CAKE_ORE = registerItem("deepslate_cake_ore",
+            ModBlocks.DEEPSLATE_CAKE_ORE);
+
 
     private static Item registerItem(String name, Block block) {
         Item blockItem = new BlockItem(block, new Item.Settings());
