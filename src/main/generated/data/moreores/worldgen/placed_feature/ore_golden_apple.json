@@ -12,20 +12,16 @@
       "type": "minecraft:height_range",
       "height": {
         "type": "minecraft:trapezoid",
-        "min_inclusive": {
-          "absolute": -24
-        },
         "max_inclusive": {
-          "absolute": 56
+          "above_bottom": 56
+        },
+        "min_inclusive": {
+          "above_bottom": -24
         }
       }
     },
     {
       "type": "minecraft:biome"
-    },
-    {
-      "type": "minecraft:rarity_filter",
-      "chance": 3
     }
   ]
 }

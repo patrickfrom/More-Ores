@@ -1,25 +1,25 @@
 {
   "type": "minecraft:ore",
   "config": {
-    "size": 4,
-    "discard_chance_on_air_exposure": 0,
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 9,
     "targets": [
       {
+        "state": {
+          "Name": "moreores:axolotl_ore"
+        },
         "target": {
           "predicate_type": "minecraft:tag_match",
           "tag": "minecraft:stone_ore_replaceables"
-        },
-        "state": {
-          "Name": "moreores:cake_ore"
         }
       },
       {
+        "state": {
+          "Name": "moreores:deepslate_axolotl_ore"
+        },
         "target": {
           "predicate_type": "minecraft:tag_match",
           "tag": "minecraft:deepslate_ore_replaceables"
-        },
-        "state": {
-          "Name": "moreores:deepslate_cake_core"
         }
       }
     ]

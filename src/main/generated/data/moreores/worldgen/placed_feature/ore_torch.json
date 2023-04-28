@@ -1,9 +1,9 @@
 {
-  "feature": "moreores:ore_glowstone",
+  "feature": "moreores:ore_torch",
   "placement": [
     {
       "type": "minecraft:count",
-      "count": 2
+      "count": 13
     },
     {
       "type": "minecraft:in_square"
@@ -12,11 +12,11 @@
       "type": "minecraft:height_range",
       "height": {
         "type": "minecraft:trapezoid",
-        "min_inclusive": {
-          "absolute": -24
-        },
         "max_inclusive": {
-          "absolute": 56
+          "above_bottom": 250
+        },
+        "min_inclusive": {
+          "above_bottom": -250
         }
       }
     },
