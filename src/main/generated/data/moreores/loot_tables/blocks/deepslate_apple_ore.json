@@ -30,6 +30,13 @@
               "type": "minecraft:item",
               "functions": [
                 {
+                  "function": "minecraft:limit_count",
+                  "limit": {
+                    "max": 5.0,
+                    "min": 1.0
+                  }
+                },
+                {
                   "enchantment": "minecraft:fortune",
                   "formula": "minecraft:ore_drops",
                   "function": "minecraft:apply_bonus"

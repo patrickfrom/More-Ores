@@ -13,8 +13,8 @@ import net.minecraft.loot.function.ApplyBonusLootFunction;
 import net.minecraft.loot.function.LimitCountLootFunction;
 import net.minecraft.loot.operator.BoundedIntUnaryOperator;
 
-public class ModLootTableProvider extends FabricBlockLootTableProvider {
-    protected ModLootTableProvider(FabricDataOutput dataOutput) {
+public class LootTableProvider extends FabricBlockLootTableProvider {
+    protected LootTableProvider(FabricDataOutput dataOutput) {
         super(dataOutput);
     }
 

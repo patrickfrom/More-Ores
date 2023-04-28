@@ -18,7 +18,7 @@
       "com.patrickfrom.moreores.MoreOres"
     ],
     "fabric-datagen": [
-      "com.patrickfrom.moreores.data.MoreOresDataGenerator"
+      "com.patrickfrom.moreores.data.DataGenerator"
     ]
   },
   "depends": {
