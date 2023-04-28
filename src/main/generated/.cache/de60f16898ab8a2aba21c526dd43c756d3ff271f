@@ -1,8 +1,8 @@
-// 1.19.4	2023-04-28T18:48:27.1598813	More Ores/null
+// 1.19.4	2023-04-28T19:04:09.4102487	More Ores/null
 48b8752fbf8b18282b559918373a00596c68b366 data\moreores\worldgen\placed_feature\ore_glowstone.json
-c949726911e3d263755787ce2031e506fc828a9a data\moreores\worldgen\configured_feature\ore_apple.json
 c8d4e6a78e7e660430ed6039930bda574069e2a3 data\moreores\worldgen\configured_feature\ore_dirt.json
 1446a0f50f657b921fac0fb8ef9ec2472281ef66 data\moreores\worldgen\configured_feature\ore_glowstone.json
+c949726911e3d263755787ce2031e506fc828a9a data\moreores\worldgen\configured_feature\ore_apple.json
 80fa2218ba4bde8c686e00a9166e1a1577a60444 data\moreores\worldgen\placed_feature\ore_golden_apple.json
 7e936c8cbbbe0667079633a1f144ac41c0222d8b data\moreores\worldgen\placed_feature\ore_torch.json
 325e9c55632c9b53b40b5fac1821bb88474e2713 data\moreores\worldgen\placed_feature\ore_cake.json
