@@ -15,6 +15,8 @@ public class ModPlacedFeatures {
     public static final RegistryKey<PlacedFeature> APPLE_ORE_PLACED_KEY = registerPlacedFeature("ore_apple");
     public static final RegistryKey<PlacedFeature> GOLDEN_APPLE_ORE_PLACED_KEY = registerPlacedFeature("ore_golden_apple");
 
+    public static final RegistryKey<PlacedFeature> TORCH_ORE_PLACED_KEY = registerPlacedFeature("ore_torch");
+
     public static void registerPlacedFeatures() {
         MoreOres.LOGGER.info("Registering Placed Features");
 
@@ -22,6 +24,7 @@ public class ModPlacedFeatures {
         addUndergroundOreFeature(DIRT_ORE_PLACED_KEY);
         addUndergroundOreFeature(APPLE_ORE_PLACED_KEY);
         addUndergroundOreFeature(GOLDEN_APPLE_ORE_PLACED_KEY);
+        addUndergroundOreFeature(TORCH_ORE_PLACED_KEY);
     }
 
     private static RegistryKey<PlacedFeature> registerPlacedFeature(String name) {

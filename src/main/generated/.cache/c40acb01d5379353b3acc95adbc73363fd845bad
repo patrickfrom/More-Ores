@@ -1,9 +1,11 @@
-// 1.19.4	2023-04-27T18:28:43.9565491	More Ores/Block Loot Tables
-6c2bab99b5efcc0a5ef23e40756849f9818ad314 data\moreores\loot_tables\blocks\apple_ore.json
-8b1f86a818d9762722c8535f1e2ea1dc73de8e00 data\moreores\loot_tables\blocks\deepslate_apple_ore.json
-7c28a96a8a2f2cda6a9998324ffb7d5fe2bd6773 data\moreores\loot_tables\blocks\dirt_ore.json
-c91abca6848bdec197e72a384667754bc63bd935 data\moreores\loot_tables\blocks\deepslate_golden_apple_ore.json
-5619b645cbef87b8e1b6dffe28693f69924fb1cb data\moreores\loot_tables\blocks\deepslate_axolotl_ore.json
+// 1.19.4	2023-04-28T10:01:15.2212297	More Ores/Block Loot Tables
 745fabcf2d4415a2b935009a67ea32e23f09f9f4 data\moreores\loot_tables\blocks\axolotl_ore.json
+6c2bab99b5efcc0a5ef23e40756849f9818ad314 data\moreores\loot_tables\blocks\apple_ore.json
+5619b645cbef87b8e1b6dffe28693f69924fb1cb data\moreores\loot_tables\blocks\deepslate_axolotl_ore.json
+7c28a96a8a2f2cda6a9998324ffb7d5fe2bd6773 data\moreores\loot_tables\blocks\dirt_ore.json
+55f9a3ab14ef79d320f3c899e094dd959f5d41b3 data\moreores\loot_tables\blocks\torch_ore.json
 e54eab7c423fef74f692fe55bafa7d6751ee8ad0 data\moreores\loot_tables\blocks\golden_apple_ore.json
+793595580dec827150794a925fbcf64a52a8e7a1 data\moreores\loot_tables\blocks\deepslate_torch_ore.json
 6e4961f468ea29cd23e260cda46590c68b2ca659 data\moreores\loot_tables\blocks\deepslate_dirt_ore.json
+8b1f86a818d9762722c8535f1e2ea1dc73de8e00 data\moreores\loot_tables\blocks\deepslate_apple_ore.json
+c91abca6848bdec197e72a384667754bc63bd935 data\moreores\loot_tables\blocks\deepslate_golden_apple_ore.json
