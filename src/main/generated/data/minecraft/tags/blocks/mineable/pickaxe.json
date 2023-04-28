@@ -12,6 +12,8 @@
     "moreores:torch_ore",
     "moreores:deepslate_torch_ore",
     "moreores:cake_ore",
-    "moreores:deepslate_cake_ore"
+    "moreores:deepslate_cake_ore",
+    "moreores:glowstone_ore",
+    "moreores:deepslate_glowstone_ore"
   ]
 }

@@ -28,6 +28,8 @@ public class ModTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.DEEPSLATE_TORCH_ORE)
                 .add(ModBlocks.CAKE_ORE)
                 .add(ModBlocks.DEEPSLATE_CAKE_ORE)
+                .add(ModBlocks.GLOWSTONE_ORE)
+                .add(ModBlocks.DEEPSLATE_GLOWSTONE_ORE)
         ;
 
         getOrCreateTagBuilder(BlockTags.NEEDS_STONE_TOOL)

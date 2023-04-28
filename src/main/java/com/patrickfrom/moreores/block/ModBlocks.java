@@ -45,6 +45,12 @@ public class ModBlocks {
     public static final Block DEEPSLATE_CAKE_ORE = registerBlock("deepslate_cake_ore",
             FabricBlockSettings.of(Material.METAL).hardness(2.5f));
 
+    public static final Block GLOWSTONE_ORE = registerBlock("glowstone_ore",
+            FabricBlockSettings.of(Material.METAL).hardness(2.5f));
+
+    public static final Block DEEPSLATE_GLOWSTONE_ORE = registerBlock("deepslate_glowstone_ore",
+            FabricBlockSettings.of(Material.METAL).hardness(3.5f));
+
 
     private static Block registerBlock(String name, FabricBlockSettings settings) {
         return Registry.register(Registries.BLOCK, new Identifier(MoreOres.MOD_ID, name), new Block(settings.requiresTool()));
